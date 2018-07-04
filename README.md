@@ -1,3 +1,3 @@
 # Neural-Statistical-Language---MDL
 
-NLP Project using Neural Statistical Language Model using Logic Tensor Networks with Background Knowledge
+Natural Language Processing (NLP) is a field in Machine Learning, which has still room for improvement. The idea is to use Statistical Relational Learning (SRL) to improve the results of predictions. We plan to use the Logic Tensor Networks(LTN) framework for a Neural Network architecture in Statistical Language Model, i.e., a model that predicts the next token in a given context. One way to improve Neural Network Language Models is to add knowledge about the grammatical rules that exist in the English Language to the model. We will use grammar rules as Background Knowledge (BK) to build a model using Logic Tensor Networks (LTN), to improve the results of Neural Statistical Language Models.
